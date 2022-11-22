@@ -14,13 +14,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saadqbal/react-native-notification-sounds.git",
-    "baseUrl": "https://github.com/saadqbal/react-native-notification-sounds"
+    "url": "git+https://github.com/tomaszkozierowski/react-native-notification-sounds.git",
+    "baseUrl": "https://github.com/tomaszkozierowski/react-native-notification-sounds"
   },
   "bugs": {
-    "url": "https://github.com/saadqbal/react-native-notification-sounds/issues"
+    "url": "https://github.com/tomaszkozierowski/react-native-notification-sounds/issues"
   },
-  "homepage": "https://github.com/saadqbal/react-native-notification-sounds#readme",
+  "homepage": "https://github.com/tomaszkozierowski/react-native-notification-sounds#readme",
   "author": {
     "name": "Asad Iqbal",
     "email": "asad.dsoft@gmail.com"
